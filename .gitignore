@@ -1,0 +1,6 @@
+/.project
+/.settings
+/.gitattributes
+/target
+.idea
+*.iml

@@ -1,0 +1,479 @@
+{
+  "entities": [
+    {
+      "sourceId": "59303",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Travel Channel HD East",
+      "id": "59303",
+      "serviceId": 3262,
+      "continuousRecording": false,
+      "callSign": "TRAVHD"
+    },
+    {
+      "sourceId": "69109",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Showtime Next HD West",
+      "id": "69109",
+      "serviceId": 771,
+      "continuousRecording": false,
+      "callSign": "NEXTPHD"
+    },
+    {
+      "sourceId": "49812",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "TBN (KHCE-DT) HD",
+      "id": "49812",
+      "serviceId": 5764,
+      "continuousRecording": false,
+      "callSign": "KHCEDT"
+    },
+    {
+      "sourceId": "47197",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "MyTV (XHRIO) HD",
+      "id": "47197",
+      "serviceId": 4663,
+      "continuousRecording": false,
+      "callSign": "XHRIO"
+    },
+    {
+      "sourceId": "19887",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Spectrum Community SD",
+      "id": "19887",
+      "serviceId": 10448,
+      "continuousRecording": false,
+      "callSign": "SPMCTPA"
+    },
+    {
+      "sourceId": "10201",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Showtime FLIX SD East",
+      "id": "10201",
+      "serviceId": 161,
+      "continuousRecording": false,
+      "callSign": "FLIX"
+    },
+    {
+      "sourceId": "65717",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "truTV HD West",
+      "id": "65717",
+      "serviceId": 7849,
+      "continuousRecording": false,
+      "callSign": "TRUTVHP"
+    },
+    {
+      "sourceId": "91341",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "CNAU",
+      "id": "91341",
+      "serviceId": 11070,
+      "continuousRecording": false,
+      "callSign": "AWCTV"
+    },
+    {
+      "sourceId": "49703",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "MeTV (KLWB) SD",
+      "id": "49703",
+      "serviceId": 25081,
+      "continuousRecording": false,
+      "callSign": "KLWB"
+    },
+    {
+      "sourceId": "76302",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "MUSICCHOICE03 SD",
+      "id": "76302",
+      "serviceId": 340,
+      "continuousRecording": false,
+      "callSign": "MC03"
+    },
+    {
+      "sourceId": "105706",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Spectrum News MultiView LA HD",
+      "id": "105706",
+      "serviceId": 28450,
+      "continuousRecording": false,
+      "callSign": "MVLAHD"
+    },
+    {
+      "sourceId": "15640",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "TBN (KITU) SD",
+      "id": "15640",
+      "serviceId": 4513,
+      "continuousRecording": false,
+      "callSign": "KITU"
+    },
+    {
+      "sourceId": "61044",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "TBN (KLUJ-DT) HD",
+      "id": "61044",
+      "serviceId": 4714,
+      "continuousRecording": false,
+      "callSign": "KLUJDT"
+    },
+    {
+      "sourceId": "16575",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Showtime FLIX SD West",
+      "id": "16575",
+      "serviceId": 1890,
+      "continuousRecording": false,
+      "callSign": "FLIXP"
+    },
+    {
+      "sourceId": "78611",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "WeatherRadar (WBMM-DT3) SD",
+      "id": "78611",
+      "serviceId": 25277,
+      "continuousRecording": false,
+      "callSign": "WBMMDT3"
+    },
+    {
+      "sourceId": "68610",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Telemundo (WDNI-CD) HD",
+      "id": "68610",
+      "serviceId": 5701,
+      "continuousRecording": false,
+      "callSign": "WDNICD"
+    },
+    {
+      "sourceId": "999902",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Spectrum SportsNet HD Lakers [RSN APP ONLY]",
+      "id": "999902",
+      "serviceId": 26052,
+      "continuousRecording": false,
+      "callSign": "SPECSNTVE"
+    },
+    {
+      "sourceId": "10419",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "TBN (KDTX) SD",
+      "id": "10419",
+      "serviceId": 4574,
+      "continuousRecording": false,
+      "callSign": "KDTX"
+    },
+    {
+      "sourceId": "97412",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Azteca (KVDF-CD) HD",
+      "id": "97412",
+      "serviceId": 4638,
+      "continuousRecording": false,
+      "callSign": "KVDFCD"
+    },
+    {
+      "sourceId": "999903",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Spectrum SportsNet LA HD Dodgers [RSN APP ONLY]",
+      "id": "999903",
+      "serviceId": 32849,
+      "continuousRecording": false,
+      "callSign": "SNLARSN"
+    },
+    {
+      "sourceId": "60945",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Showtime Extreme HD West",
+      "id": "60945",
+      "serviceId": 770,
+      "continuousRecording": false,
+      "callSign": "SHWXPHD"
+    },
+    {
+      "sourceId": "35232",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "MeTV (KFFV-DT) HD",
+      "id": "35232",
+      "serviceId": 24859,
+      "continuousRecording": false,
+      "callSign": "KFFVDT"
+    },
+    {
+      "sourceId": "52780",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "MyTV (WRGT-DT2) SD",
+      "id": "52780",
+      "serviceId": 5416,
+      "continuousRecording": false,
+      "callSign": "WRGTDT2"
+    },
+    {
+      "sourceId": "82649",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Nick Jr HD",
+      "id": "82649",
+      "serviceId": 3027,
+      "continuousRecording": false,
+      "callSign": "NICJRHD"
+    },
+    {
+      "sourceId": "73967",
+      "metadata": {},
+      "subscriberRecordings": {
+        "enabled": true,
+        "retentionPeriod": 90
+      },
+      "operatorRecordings": {
+        "enabled": false
+      },
+      "startFromTheBeginning": false,
+      "copyType": "UNIQUE_COPY",
+      "cachedPlaybackEnabled": false,
+      "channelName": "Spectrum News Jamestown HD",
+      "id": "73967",
+      "serviceId": 6447,
+      "continuousRecording": false,
+      "callSign": "SPNJHD"
+    }
+  ]
+}
